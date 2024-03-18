@@ -2,4 +2,7 @@
 title: Welcome to Quartz
 ---
 
-testicular
+### Party
+- [[-Karzepp|Karzepp]]
+- [[-Mata|Mata]] 
+- 
