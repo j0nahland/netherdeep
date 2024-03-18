@@ -1,4 +1,11 @@
-###### Razz
+---
+title: Rasz'Dryn
+draft: false
+tags:
+  - rival
+---
+
+###### AKA Razz
 
 #### Current Situation 
 > Growing up as a Drow in the [[Empire]], Razz was put forward to represent the [[Library of the Cobalt Soul]] and [[Empire]]'s interest in the [[Ruidium]] research. Lifelong friend to [[-Natsumi]] and has since learned of [[Consecution]], realising it's happening to Natsumi without her knowledge. 

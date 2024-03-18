@@ -1,9 +1,7 @@
-
 ---
-title: Example Title
+title: Karzepp
 draft: false
 tags:
-  - example-tag
+  - player
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)

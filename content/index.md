@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Crappy Index
 ---
+
+
+
 
 ### Party
 - [[-Karzepp|Karzepp]]

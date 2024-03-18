@@ -1,3 +1,9 @@
+---
+title: Maggie
+draft: false
+tags:
+  - rival
+---
 
 ###### No Current Nickname
 

@@ -1,3 +1,9 @@
+---
+title: Irvan
+draft: false
+tags:
+  - rival
+---
 
 ###### AKA Irv
 
