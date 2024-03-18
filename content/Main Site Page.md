@@ -2,6 +2,50 @@
 title: Crappy Index
 ---
 test
+- [[Can you ever make the truly right decision]]
+- **Characters**
+	- **1 Party**
+		- **Karzepp (Sydney)**
+			- [[-Karzepp]]
+			- [[Jammi]]
+		- **Mata (Travis)**
+			- [[-Mata]]
+			- [[Hag]]
+		- **Natsumi (Gemma)**
+			- [[-Natsumi]]
+			- [[Quana]]
+			- [[Trent Ikithon]]
+		- **Tillie (Kristy)**
+			- [[-Tillie]]
+	- **2 Rivals**
+		- [[Dendarron the Sun Bear]]
+		- [[Irvan Wastewalker]]
+		- [[Maggie Keeneyes]]
+		- [[Rasz'Dryn]]
+	- **Allegiance of Allsight**
+		- [[Leader Gryz Alakritos]]
+		- [[Leader James Cryon]]
+		- [[Prolix Yusaf]]
+	- **Cobalt Soul**
+		- [[Jamil A’alithiya]]
+		- [[Question]]
+	- **Empire**
+		- [[Crown's Guard]]
+		- [[Scourger]]
+		- [[Trent Ikithon]]
+	- **Vermillion Dream**
+		- [[Aloysia Telfan]]
+		- [[Aradrine the Owl]]
+		- [[Khelkur the Gull]]
+		- [[Larthul the Wolf]]
+		- [[Vrill the Moth]]
+- **Gods**
+	- [[Avandra The Change Bringer]]
+	- [[Corellon The Arch Heart]]
+	- [[Ruidus]]
+	- [[Sehanine The Moon Weaver]]
+- **Mechanics**
+	- [[Consecution]]
+	- [[Potions and Poisions]]
+	- [[Ruidium]]
 
-
-[[1netherdeep]] 

@@ -1,4 +1,4 @@
-%% Begin Waypoint %%
+
 - [[Can you ever make the truly right decision]]
 - **Characters**
 	- **1 Party**
@@ -46,4 +46,4 @@
 	- [[Potions and Poisions]]
 	- [[Ruidium]]
 
-%% End Waypoint %%
+
