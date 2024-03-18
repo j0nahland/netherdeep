@@ -1,10 +1,9 @@
 ---
-title: Crappy Index
+title: Index
 ---
-test
-- [[Can you ever make the truly right decision]]
+
 - **Characters**
-	- **1 Party**
+	- **Party**
 		- **Karzepp (Sydney)**
 			- [[-Karzepp]]
 			- [[Jammi]]
@@ -17,7 +16,7 @@ test
 			- [[Trent Ikithon]]
 		- **Tillie (Kristy)**
 			- [[-Tillie]]
-	- **2 Rivals**
+	- **Rivals**
 		- [[Dendarron the Sun Bear]]
 		- [[Irvan Wastewalker]]
 		- [[Maggie Keeneyes]]
@@ -46,6 +45,6 @@ test
 	- [[Sehanine The Moon Weaver]]
 - **Mechanics**
 	- [[Consecution]]
-	- [[Potions and Poisions]]
+	- [[Potions and Poisons]]
 	- [[Ruidium]]
 

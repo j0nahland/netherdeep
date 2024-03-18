@@ -1,7 +1,7 @@
 ---
-title: "[[Potions and Poisions]]"
+title: "[[Potions and Poisons]]"
 draft: false
-tags:
+tags: 
 ---
  
 bag of stuff. puts the potions in the bag and rolls die to determine at point of choosing. 
