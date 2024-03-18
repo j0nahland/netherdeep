@@ -13,7 +13,7 @@
 - Undefined.
 
 #### Notes
-- unknowingly feeding information to [[1netherdeep/Characters/Empire/Trent Ikithon|Trent Ikithon]] 
+- unknowingly feeding information to [[content/1netherdeep/Characters/Empire/Trent Ikithon|Trent Ikithon]] 
 - they were shipping off from [[Rexxentrum]] to represent empire interest in Ruidium
 - Drinking buddies with [[-Natsumi]]:
 	- they play dragon chess together, are also a dog person, they visit [[-Natsumi]] and their dogs hang out
