@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: "[[Avandra The Change Bringer]]"
 draft: false
 tags:
-  - example-tag
+  - religion
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)

@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: "[[Aradrine the Owl]]"
 draft: false
 tags:
-  - example-tag
+  - NPC
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)

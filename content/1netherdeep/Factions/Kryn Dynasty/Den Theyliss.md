@@ -1,8 +1,8 @@
 ---
-title: Example Title
+title: "[[Den Theyliss]]"
 draft: false
 tags:
-  - example-tag
+  - Faction
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+

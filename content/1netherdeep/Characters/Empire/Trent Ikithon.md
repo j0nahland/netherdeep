@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: "[[content/1netherdeep/Characters/Empire/Trent Ikithon|Trent Ikithon]]"
 draft: false
 tags:
   - example-tag
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)

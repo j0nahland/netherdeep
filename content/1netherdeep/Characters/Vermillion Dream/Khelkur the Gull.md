@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: "[[Khelkur the Gull]]"
 draft: false
 tags:
-  - example-tag
+  - NPC
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)

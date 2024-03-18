@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: "[[Corellon The Arch Heart]]"
 draft: false
 tags:
-  - example-tag
+  - Faction
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
