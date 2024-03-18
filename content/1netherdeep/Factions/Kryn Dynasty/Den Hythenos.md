@@ -5,3 +5,4 @@ tags:
   - Faction
 ---
  
+Assassinated Leylas in a bid for power. 

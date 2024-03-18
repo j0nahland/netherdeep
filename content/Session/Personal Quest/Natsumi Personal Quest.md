@@ -1,0 +1,1 @@
+so my idea is that as a cool thing from her consecution and a reward for exploring it she will have a secondary spell list which allows her to prepare certain spells outside of her allowance

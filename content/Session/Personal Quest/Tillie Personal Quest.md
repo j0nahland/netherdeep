@@ -1,0 +1,1 @@
+Heroes Feast would be an appropriate high level reward that is outside of her class (chef)

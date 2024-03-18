@@ -13,18 +13,20 @@ tags:
 #### Appearance
 - Halfling
 - Corrupted left hand - ruidium wound
+- Youthful
+
 
 #### Goals
 - Cure corruption
 - Learn about mum (Perigree)
 
 #### Key Events
-- 
-
+- Injured by Ruidium corrupted creature
+- Accidentally killed a bugbear when having a ruidium filled nightmare
 
 #### Notes
 - tying the corruption to the physical changes in her body matters to her. 
 - As a druid she feels very connected to nature
 - catastrophising the corruption - she is feeling betrayed by her physical form. 
 - Some kind of dysphoria potentially setting in
-- 
+- given dex gloves by Bugsy while in jail 
