@@ -51,7 +51,6 @@
 	- [[Corellon The Arch Heart]]
 	- [[Ruidus]]
 	- [[Sehanine The Moon Weaver]]
-- [[Index]]
 - **Mechanics**
 	- [[Consecution]]
 	- [[Potions and Poisions]]
