@@ -1,5 +1,5 @@
 ---
-title: "[[Crown's Guard]]"
+title: Crown's Guard
 draft: false
 tags:
   - NPC

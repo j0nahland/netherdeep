@@ -1,5 +1,5 @@
 ---
-title: "[[Sehanine The Moon Weaver]]"
+title: Sehanine The Moon Weaver
 draft: false
 tags:
   - religion

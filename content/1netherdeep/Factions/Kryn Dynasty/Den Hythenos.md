@@ -1,5 +1,5 @@
 ---
-title: "[[Den Hythenos]]"
+title: Den Hythenos
 draft: false
 tags:
   - Faction

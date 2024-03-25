@@ -1,6 +1,6 @@
 ---
-title: "[[Consecution]]"
+title: Consecution
 draft: false
-tags: []
+tags:
 ---
  

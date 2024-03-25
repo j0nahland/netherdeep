@@ -1,7 +1,7 @@
 ---
-title: "[[Ruidium]]"
+title: Ruidium
 draft: false
-tags: []
+tags:
 ---
  
 DC Variable on exposure level

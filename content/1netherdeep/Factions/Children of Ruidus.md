@@ -1,5 +1,5 @@
 ---
-title: "[[Children of Ruidus]]"
+title: Children of Ruidus
 draft: false
 tags:
   - Faction

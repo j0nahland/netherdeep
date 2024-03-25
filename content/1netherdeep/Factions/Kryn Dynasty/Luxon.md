@@ -1,5 +1,5 @@
 ---
-title: "[[Luxon]]"
+title: Luxon
 draft: false
 tags:
   - religion

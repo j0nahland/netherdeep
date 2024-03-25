@@ -1,5 +1,5 @@
 ---
-title: "[[Aloysia Telfan]]"
+title: Aloysia Telfan
 draft: false
 tags:
   - NPC

@@ -17,7 +17,7 @@ tags:
 
 #### Vocalisation
 
-- Undefined.
+- Cockney accent?
 
 #### Notes
 - unknowingly feeding information to [[content/1netherdeep/Characters/Empire/Trent Ikithon|Trent Ikithon]] 

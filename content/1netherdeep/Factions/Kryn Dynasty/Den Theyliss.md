@@ -1,5 +1,5 @@
 ---
-title: "[[Den Theyliss]]"
+title: Den Theyliss
 draft: false
 tags:
   - Faction

@@ -1,5 +1,5 @@
 ---
-title: "[[content/1netherdeep/Characters/Empire/Trent Ikithon|Trent Ikithon]]"
+title: Trent Ikithon
 draft: false
 tags:
   - example-tag

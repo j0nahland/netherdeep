@@ -23,4 +23,4 @@ tags:
 - Kind of a bad guy but can go either way, ideally depending on what the party does. 
 - Has a wound from when he contracted Lycanthropy that is similar to [[-Karzepp]]'s in that it is corrupting him, and the source of psychic abilities. 
 - From here I'm thinking that it's actually really difficult for him to communicate and as such a characteristic is that he speaks in short sentences. 
-- He's a somewhat mysterious organiser for the rivals, a leader by virtue of him being the researcher who organised the trip to [[Jigow]]. 
+- He's a somewhat mysterious benefactor for the rivals, a leader by virtue of him being the researcher who organised the trip to [[Jigow]]. 

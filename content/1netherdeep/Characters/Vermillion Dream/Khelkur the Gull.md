@@ -1,5 +1,5 @@
 ---
-title: "[[Khelkur the Gull]]"
+title: Khelkur the Gull
 draft: false
 tags:
   - NPC

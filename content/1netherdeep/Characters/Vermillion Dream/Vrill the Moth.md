@@ -1,5 +1,5 @@
 ---
-title: "[[Vrill the Moth]]"
+title: Vrill the Moth
 draft: false
 tags:
   - NPC
