@@ -37,5 +37,8 @@ tags:
 	- Pan back to Tillie trudging along the river on her way to Jigow with her pet. 
 	- Notices rumbling, spots Horizonback Walker based on perception check. 
 	- Skill challenge - constitution checks to see if Karzepp and Maggie can reach the turtle before it reaches Jigow. Additional checks for Tillie to see if she can outrun the creature. 
+- Hunting deer. As she gets close, prey starts rushing past her. 
+- Nek minnut TURDLE
+- crystal hooked into bloodstream 
 
 [[snakes&ladders.png]] 

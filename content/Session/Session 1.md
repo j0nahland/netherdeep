@@ -31,6 +31,8 @@ tags:
 - Alyxian
 
 #### Encounters
+
+- Entry through lens of Alpha Wolf Squadron as town description. Walk past Family
 - Festival games
 	- Assign NPCs to games
 	- Singular, kooky NPC runs all of the stands, pretends to be different people. Same NPC runs the race at Emerald Grotto

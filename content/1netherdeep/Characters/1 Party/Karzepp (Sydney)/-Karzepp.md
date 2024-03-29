@@ -30,3 +30,10 @@ tags:
 - catastrophising the corruption - she is feeling betrayed by her physical form. 
 - Some kind of dysphoria potentially setting in
 - given dex gloves by Bugsy while in jail 
+
+
+Okay we have established a baseline! I think that while he doesn’t mention her or why she left, Karzepp understands that it was no small reason. He misses her but isn’t resentful of her for leaving, or bitter about their parting.
+I think stories would be about how she blessed him with Karzepp after their fateful meeting
+And that they didn’t plan for Karzepp but were overjoyed when she came into their lives.
+As far as the greater family, they didn’t know Karzepps mum because she wasn’t around long enough- due to the long lives of gnomes the extended family thought they had plenty of time to meet her.
+To Karzepp, Jammi seemingly knows more than he tells her, but she knows at least that her mum leaving has nothing to do with other family drama
