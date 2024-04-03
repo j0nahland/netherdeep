@@ -26,3 +26,12 @@ tags:
 #### Notes
 - Prior incarnation as a bugbear of [[Den Hythenos]]
 - lived too long and just wants to die but also wants to be remembered
+
+#### Corruption Temptation
+Definitely in need of some things mata would be tempted by, currently my list is: cure the land
+It'd have to be a life or death do this or we die situation. Which means if I do use it it'll be hecking cool
+Power no. 
+Save friends, yes. 
+Save land, yes. 
+Use it to prevent a friend having to use it, maybe
+Get high as heck and shoot lasers from his eyes, also yes
