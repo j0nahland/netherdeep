@@ -4,17 +4,17 @@ draft: false
 tags:
 ---
  
-DC Variable on exposure level
-[[-Natsumi]] will remember Leylas using Ruidium as metamagic when [[-Karzepp]] uses
-Corrupting elements make things easy like crazy women
-set Ruidium DC's based on different metamagic - also effects amount to consume for metamagic. 
-releases memories of past lives when consumed
-Cooking with Ruidium???
+- DC Variable on exposure level
+- [[-Natsumi]] will remember Leylas using Ruidium as metamagic when [[-Karzepp]] uses
+- Corrupting elements make things easy like crazy women
+- set Ruidium DC's based on different metamagic - also effects amount to consume for metamagic. 
+- releases memories of past lives when consumed
+- Cooking with Ruidium???
 
-Signs of Corruption
+###### Signs of Corruption
 The first physical sign of corruption in a creature is a bright red rash, which appears on the creature’s body where it made contact with the ruidium. As the creature’s level of exhaustion increases, the signs of corruption become more obvious, as summarized in the Physical Signs of Ruidium Corruption table. Decreasing a creature’s level of exhaustion doesn’t affect the physical signs of corruption. Once a new physical sign appears, it can’t be removed from the creature until its ruidium corruption is ended.
 
-Physical Signs of Ruidium Corruption
+###### Physical Signs of Ruidium Corruption
 1. A red rash appears, originating from the point of contact with ruidium.
 2. 
 3. Pulsing crimson veins spread across the creature’s skin.
@@ -27,6 +27,8 @@ Physical Signs of Ruidium Corruption
 10. The corruption kills the creature.
 
 A creature beset by ruidium corruption also exhibits emotional signs of corruption that worsen as its level of exhaustion increases. These symptoms include amplified feelings of regret, yearning, rage, and despair. A player whose character is corrupted by ruidium can roleplay these symptoms however they wish. (For example, the player could emphasize or amplify their character’s flaw, or choose a new flaw for their character.) As with the physical signs of corruption, all emotional symptoms persist until the creature’s ruidium corruption is ended.
+
+###### Ruidium Metamagic
 
 **1 Sorcery point = 75g or 1/8th ounce of Ruidium** 
 
