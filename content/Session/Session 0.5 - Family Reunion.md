@@ -8,12 +8,11 @@ tags:
 - [[-Karzepp]]
 - [[-Tillie]]
 
-
 #### Current Threads
 - Tillie catches up with Karzepp and can assess her condition
 - Karzepp is keeping an eye out for researchers
 - Who are Sunny and Maggie, can they be trusted?
-- 
+- TURDLE
 
 #### Party Knowledge
 - Festival in Jigow, somehow related to Ruidium research
@@ -32,13 +31,12 @@ tags:
     - Hides his own corruption and injury at this stage
     - asks Karzepp about episodes
 - Horizonback Walker chases Tillie into town broken off from the pack due to ruidium corruption
-	- Aurora Watch spot Horizonback Walker and then Tillie running from it.
-	- Karzepp is about to approach the rivals when alarm is sounded and Maggie rushes to help
-	- Pan back to Tillie trudging along the river on her way to Jigow with her pet. 
-	- Notices rumbling, spots Horizonback Walker based on perception check. 
-	- Skill challenge - constitution checks to see if Karzepp and Maggie can reach the turtle before it reaches Jigow. Additional checks for Tillie to see if she can outrun the creature. 
-- Hunting deer. As she gets close, prey starts rushing past her. 
-- Nek minnut TURDLE
-- crystal hooked into bloodstream 
+	- Tillie hunting up Ifolon River on her way to Jigow with her pet. 
+	- Notices her prey run into a bush before lots of creatures come out *towards* her, feels rumbling then spots Horizonback Walker
+	- Karzepp is about to approach the rivals when alarm is sounded and Maggie rushes past her to help. 
+	- They both spot Tillie with a massive tortoise head poking over a hill.
+	- Skill challenge - snakes and ladders
+		- can we get to Tillie before the tortoise does. Can we delay or stop it.
+	- town will set up defences, players can try to stop the tortoise before it reaches town
 
 [[snakes&ladders.png]] 

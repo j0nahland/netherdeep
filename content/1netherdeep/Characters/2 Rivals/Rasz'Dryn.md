@@ -17,7 +17,7 @@ tags:
 
 #### Vocalisation
 
-- Cockney accent?
+- Cockney accent
 
 #### Notes
 - unknowingly feeding information to [[content/1netherdeep/Characters/Empire/Trent Ikithon|Trent Ikithon]] 
@@ -28,3 +28,17 @@ tags:
 	- there's no pressure, and they can pick up where they left off with no issue. 
 	- they show up out of the blue after months like, "Natsumi, I need your big brain for somethin," and they crack a cobalt soul problem together
 	- Natsumi feels she can trust this person even though she seems to be losing her mind, cus their friendship has always been kind of weird 
+- Urchin - Mother was POW who worked in brothels. Died to disease.
+- Razs taken in by monk of the Cobalt Soul 
+- Chosen for this mission as very drow in appearance. 
+- will choose to do the right thing every time
+- they inadvertently get Trent involved with the consortium through this kind of worldview that the Cerberus assembly and cobalt soul should work together
+- Imagine a confession scene between razz and natsumi where they have to explain Trent is coming to Marquet to meet with the consortium.
+- 
+- I can lay an earlier clue to his involvement when the scourger and crownsguard make contact. Perhaps they have a seal provided by the assembly, or something in writing about their mission
+	 - WHAT IF Trent conscripts razz through the cobalt soul who pass the message on that they will receive info about their next job. 
+	- This contains very plausible evidence that natsumi has lost the plot and must be detained. 
+	- While deciding to act on this or not, the instructions are left somewhere for the party to find. 
+
+
+

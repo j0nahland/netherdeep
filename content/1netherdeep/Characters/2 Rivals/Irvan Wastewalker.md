@@ -13,6 +13,7 @@ tags:
 #### Appearance
 - Charming young human
 - Scruffy clothes, leathers. 
+- very well kept wood pipes
 - Previously a bugbear and holds himself as such. 
 - Defensive
 - Young

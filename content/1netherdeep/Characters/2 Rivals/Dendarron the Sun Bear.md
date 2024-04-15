@@ -4,7 +4,7 @@ draft: false
 tags:
   - rival
 ---
-
+[Sunny - Monsters - Homebrew - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/monsters/4398952-sunny)
 ###### AKA Sunny
 
 #### Current Situation 
