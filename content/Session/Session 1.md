@@ -31,20 +31,32 @@ tags:
 #### Encounters
 
 - Entry through lens of Alpha Wolf Squadron as town description. 
-- only 1 inn Unbroken Tusk
+- only 1 inn Unbroken Tusk run by Zak
 - Festival games
 	- Assign NPCs to games
 		- Fishing: +1 Colbu
 		- Arm Wrestling: Maggie
 		- Riddles: Dendarron (watching not participating)
-		- Cooking Comp: 
+		- Cooking Comp: old lady orc 
 		- Eating Comp: Irvan
-	- Singular, kooky goblin Colbu Kaz runs all of the stands, pretends to be different people. 
+	- Singular, kooky goblin Kaz runs all of the stands, pretends to be different people. 
 	- Stats: +0, +2 (random participants)
 
+##### Arm Wrestling
+Goblin name Beetle
+
+[A Fateful Competition - Critical Role: Call of the Netherdeep - Sources - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/sources/cotn/a-fateful-competition#J4CalltoArms)
+
 ##### Riddles
+Goblin name: Colbu
 [The riddle section](https://www.dndbeyond.com/sources/cotn/a-fateful-competition#J7RiddlesandRhymes)
 ##### Eating Competition
+Goblin name: Agathe
+
+The savory scents of fish meat and spices fill the air around a three-story building mounted on the back of a gigantic tortoise. A cooking stand and a festival stage with a long table are set up at the tortoise’s feet, where a goblin stands over a massive kitchen. She bustles from the kitchen to the stage and back, placing delicious-looking Ika Mata at each seat and stacking more of them on a rack nearby.
+
+People are already gathered on stage, including a scrawny young human with a mop of brown hair and a scruffy beard. As you approach, the goblin calls out in a melodic baritone, “Come to sample the best Ika Mata this side of the Wastes, yes? There's a cooking contest up there, but I’m running eating contests down here all day, if you’ve got an orc-sized stomach.”
+
 _**Putting Away the Ika Mata.**_ It costs 5 sp to enter this contest. On Agathe’s signal, everyone seated at the platform can begin eating. 
 - All contestants can easily eat their first pie, requiring no check. 
 - Eating a second pie requires a successful DC 8 Constitution check. 
@@ -52,6 +64,7 @@ _**Putting Away the Ika Mata.**_ It costs 5 sp to enter this contest. On Agathe
 - The person who eats the most pies before failing a check is the winner (ties are possible). 
 - A contestant whose check fails is too full to continue eating and must make a DC 15 Constitution saving throw. On a failed save, the contestant becomes [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) for 1 hour and feels queasy.
 ##### Cooking
+Goblin name Omo
 - **Prep relies on Dexterity or Wisdom.** The PC(s) assigned to prep must chop up ingredients, debone or remove potentially poisonous organs from animals, properly preserve perishables, etc.
 	- Examples of success: Chopped vegetables are of equal size; adding baking ingredients in the right order
 	- Examples of failure: Chopped vegetables are comically different sizes; dry and wet baking ingredients are combined poorly, so batter is lumpy; poisonous organs are not removed, making dishes inedible; fingers are lost
@@ -68,9 +81,13 @@ Tiny Cuirassed Carp +1
 Mature River Eel +2
 Mature Cuirassed Carp +3
 Greater Cuirassed Carp +4
-Benebog the Line Breaker +5
+
 
 ##### Fishing
+Goblin name: Zag
+
+Several people are gathered on the piers, arguing among themselves and venting their ire at a spry goblin who responds to their anger with an amused expression. "It's time to find out who among you all is the real fisherman! Benebog lay uncaught on this day yet."
+
 ![[fishing contest.png]]
 
 #### Session 2 stuff to lead into 
