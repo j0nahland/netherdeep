@@ -4,7 +4,7 @@ draft: false
 tags:
   - rival
 ---
-
+[Irvan Wastewalker - Monsters - Homebrew - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/monsters/4430152-irvan-wastewalker)
 ###### AKA Irv
 
 #### Current Situation 

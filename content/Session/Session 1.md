@@ -88,7 +88,7 @@ Goblin name: Zag
 
 Several people are gathered on the piers, arguing among themselves and venting their ire at a spry goblin who responds to their anger with an amused expression. "It's time to find out who among you all is the real fisherman! Benebog lay uncaught on this day yet."
 
-![[fishing contest.png]]
+![[fishing contest 1.png]]
 
 #### Session 2 stuff to lead into 
 - Race in Emerald Grotto
@@ -97,3 +97,8 @@ Several people are gathered on the piers, arguing among themselves and venting t
 	- Natsumi remembers the power of Ruidium
 - Vision of Perigree, Sehanine's Deva, Karzepp's mum
 - Jewel of Three Prayers
+
+
+things that happened:
+Natsumi won fishing, Tillie won arm wrestle vs Maggie, eating contest a complete wash. 
+rival and party meet each other, Razz introduced. Natsumi confessed to Razz immediately. 

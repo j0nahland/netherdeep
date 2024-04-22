@@ -1,5 +1,5 @@
 ---
-title: Session 2
+title: Session 3
 draft: false
 tags:
 ---
@@ -12,12 +12,11 @@ tags:
 
 
 #### Current Threads
-- Emerald Grotto
-- Natsumi's and Rasz's relationship
+- Who is Alyxian
+- 
 
 #### Party Knowledge
-- Main event at sundown
-- could find something relating to ruidium research in the grotto
+- 
 
 #### NPCs
 - [[Dendarron the Sun Bear]]
@@ -31,10 +30,8 @@ tags:
 	- Shark is very aggressive compared to prior festivals
 	- Has a shard of ruidium wedged in it's head
 	- Red crystal protruding from a large crack in the mural
-	- "What is one powerful memory of Character experiencing Emotion? It flashes before your eyes. It burrows into your mind. It feels like, if you don't escape, this emotion might be the only thing you'll ever be able to experience." 
-	- **Regret Yearning Despair Rage**
-- Karzepp thought she could see someone entering the crack, for a moment
-- Mural on wall of an angel, wings outstretched, standing beside a human with an amulet, both looking towards the twin moons of Catha and Ruidus.
+	- Karzepp thought she could see someone entering the crack, for a moment
+- Mural on wall of an angel, wings outstretched, standing beside a human with an amulet, both looking towards the twin moons.
 	- Sunny notes they saw something similar in Betrayers Rise
 	- Tillie remembers betrayers rise is where her hubby died.
 - Vision of Apotheon

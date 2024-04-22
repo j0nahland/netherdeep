@@ -24,3 +24,5 @@ tags:
 - Has a wound from when he contracted Lycanthropy that is similar to [[-Karzepp]]'s in that it is corrupting him, and the source of psychic abilities. 
 - From here I'm thinking that it's actually really difficult for him to communicate and as such a characteristic is that he speaks in short sentences. 
 - He's a somewhat mysterious benefactor for the rivals, a leader by virtue of him being the researcher who organised the trip to [[Jigow]]. 
+
+asked Karzepp if she has had any "episodes"

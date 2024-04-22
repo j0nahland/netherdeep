@@ -4,7 +4,7 @@ draft: false
 tags:
   - rival
 ---
-
+[Maggie Keeneyes (Tier 1) - Monsters - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/monsters/2407549-maggie-keeneyes-tier-1)
 ###### No Current Nickname
 
 #### Current Situation 
