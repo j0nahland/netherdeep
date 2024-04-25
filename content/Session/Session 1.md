@@ -76,8 +76,8 @@ Goblin name Omo
 	- Examples of failure: The food is everywhere except a plate; everything is mushed together; The food has grown cold or is too hot; the food is poisonous or disgusting
 
 Bonus to dish for better ingredients.
-Tiny River Eel
-Tiny Cuirassed Carp +1
+Tiny River Eel 
+Tiny Cuirassed Carp +1 (2 or 3)
 Mature River Eel +2
 Mature Cuirassed Carp +3
 Greater Cuirassed Carp +4
