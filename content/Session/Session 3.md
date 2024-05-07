@@ -51,6 +51,7 @@ tags:
 		- Razz offers to check in on Empire about Natsumi. This is reported to Trent who sends scourgers
 		- "Natsumi Ikithon wanted for murder of Crowns Guard, disappeared while en route to Sanatorium. Cerberus Assembly holds a 1000g bounty"
 
+
 on the way encounters
 - Ill Omen [The Leave-Taking - Critical Role: Call of the Netherdeep - Sources - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/sources/cotn/the-leave-taking#IllOmen)
 - Moorbounder Mayhem [The Leave-Taking - Critical Role: Call of the Netherdeep - Sources - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/sources/cotn/the-leave-taking#MoorbounderMayhem)
