@@ -46,31 +46,41 @@ tags:
 
 #### Timeline
 Razz alerts cobalt soul of Natsumi
+
 Day 1
-Rivals leave the next morning before the party wakes
-Party explores town/leaves
-Ill Omen 
+- Rivals leave the next morning before the party wakes
+- Party explores town/leaves
+- Ill Omen 
+
 Day 2
-Moorbounder Mayhem
-Trent sends scourger to Jigow to find Razz
-Scourger finds evidence of Natsumi in Jigow thru word of mouth
-Sunny werebear rage on full moon
+- Moorbounder Mayhem
+- Trent sends scourger to Jigow to find Razz
+- Scourger finds evidence of Natsumi in Jigow thru word of mouth
+- Sunny werebear rage on full moon
+
 Day 3
-Party finds wreckage left by Sunny
+- Party finds wreckage left by Sunny
+
 Day 4
-Selfisherman/Roc encounter
+- Selfisherman/Roc encounter
+
 Day 5
-Late evening Scourger meets Selfisherman
+- Late evening Scourger meets Selfisherman
+
 Day 6
-A lovely day
-Emerald Loop
+- A lovely day
+- Emerald Loop
+
 Day 7
-Uneventful until evening watch. 
-SelfishermanXScourger collab
+- Uneventful until evening watch. 
+- SelfishermanXScourger collab
+
 Day 8
-Chill
+- Chill
+
 Day 9
-Catch up to Rivals (if this is a goal of party)
+- Catch up to Rivals (if this is a goal of party)
+
 Day 10
-Chill, arrival depending on pace from here
+- Chill, arrival depending on pace from here
 
