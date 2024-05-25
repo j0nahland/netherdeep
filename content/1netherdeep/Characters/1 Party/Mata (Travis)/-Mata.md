@@ -35,3 +35,8 @@ Save friends, yes.
 Save land, yes. 
 Use it to prevent a friend having to use it, maybe
 Get high as heck and shoot lasers from his eyes, also yes
+
+#### First memories ideas
+- too depressed and wanting it all to end. this was wiped by hag when you became depredge
+- remembered war crimes
+- 

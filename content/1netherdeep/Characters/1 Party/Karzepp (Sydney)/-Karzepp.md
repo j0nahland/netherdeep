@@ -18,6 +18,7 @@ tags:
 
 #### Goals
 - Cure corruption
+- go home to the lotusden once her arm and nature is better
 - Learn about mum (Perigree)
 
 #### Key Events
@@ -37,3 +38,4 @@ I think stories would be about how she blessed him with Karzepp after their fate
 And that they didn’t plan for Karzepp but were overjoyed when she came into their lives.
 As far as the greater family, they didn’t know Karzepps mum because she wasn’t around long enough- due to the long lives of gnomes the extended family thought they had plenty of time to meet her.
 To Karzepp, Jammi seemingly knows more than he tells her, but she knows at least that her mum leaving has nothing to do with other family drama
+
