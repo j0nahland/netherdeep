@@ -24,13 +24,17 @@ Justice & Rice Pudding
 
 #### Encounters
 - tax collector with the selfisherman & vrock
-	- roc is hunting them, nearest cover is selfisherman
-	- this is our spot if u want shelter you need to pay the toll
-	- can choose violence or to share, wait out the bird
+	- vrock harassing some "people" do the party help?
+	- no one buying their fish, trying to look after fred before he dies
 		- can show how poor off they are
 		- fred ate the crystal fish and look at him
+		- everyone looks skinny
+		- is there something we can do to this fish to eat it safely
+		- I'm really fkn hungry I think we need to do it
+
 - scourger encounter - meets with selfisherman and uses them for a trap 
 	- anti magic restraint on natsumi
+	- Riley is modify memoried to remove natsumi from her memory
 
 
 #### Notes
