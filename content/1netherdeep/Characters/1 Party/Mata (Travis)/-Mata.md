@@ -38,5 +38,5 @@ Get high as heck and shoot lasers from his eyes, also yes
 
 #### First memories ideas
 - too depressed and wanting it all to end. this was wiped by hag when you became depredge
-- remembered war crimes
-- 
+- remembered war crimes - war ptsd
+- long form compulsion - mass suggestion

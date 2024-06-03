@@ -23,9 +23,17 @@ Iki the goblin
 Justice & Rice Pudding
 
 #### Encounters
+- easier exploration encounter
+- passing by mountains - tunnel to underdark
+	- vrock goes if they spend enough time exploring
 - tax collector with the selfisherman & vrock
-	- vrock harassing some "people" do the party help?
+	- only some are fit to fight - multiple ate the fish. 
+	- **different** vrock harassing some "people" do the party help?
+		- 
 	- no one buying their fish, trying to look after fred before he dies
+	- heard they'll hire anyone to guard bazzoxan
+	- one is too sick for them to leave, trying to make him comfortable
+	- 
 		- can show how poor off they are
 		- fred ate the crystal fish and look at him
 		- everyone looks skinny
@@ -35,7 +43,18 @@ Justice & Rice Pudding
 - scourger encounter - meets with selfisherman and uses them for a trap 
 	- anti magic restraint on natsumi
 	- Riley is modify memoried to remove natsumi from her memory
-
+	- crownsguard "you're a bad person. bad people kill people"
+		- selfisherman chime in - murderer, murderer
+		- why did you do this "well you didn't tell us you were on the run"
+	- terrain changing - dynamic situation
+		- dropping the earth beneath a player
+			- 2x2 square, tile next to the pit is difficult terrain
+		- earth is cracked?
+		- blighted land
+		- plate shift/lower higher ground
+	- crownsguard - rage, barbarian
+		- flail with special cc mechanic tbd and some manouvres
+		- pride!!! soldier uniform
 
 #### Notes
 - 
