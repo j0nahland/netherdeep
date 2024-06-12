@@ -19,26 +19,49 @@ tags:
 - Take the jewel to betrayers rise
 
 #### NPCs
-Iki the goblin
-Justice & Rice Pudding
+nobody
 
 #### Encounters
 - easier exploration encounter
-- passing by mountains - tunnel to underdark
+	- skill challenge
+	- water starts at 15ft per round
+	- round 2 increases to 20 ft 
+	- round 3 rises above low rocks
+- Mountain passage - forgotten shrine to Luxon
 	- vrock goes if they spend enough time exploring
-- tax collector with the selfisherman & vrock
-	- only some are fit to fight - multiple ate the fish. 
-	- **different** vrock harassing some "people" do the party help?
+	- Mata remembers marching to war under that banner
+		- has a compulsion to kneel in front of Leylas' visage
+		- intense headache
+		- hears an old lady telling him "there there sweetie I will makes it all disappear"
+	- Statues of Quana, Leylas. Leylas head knocked off the podium. Other statues have been similarly damaged to time. Quana statue holds shield - 
+		- Natsumi remembers this person, feels a dull ache which grows deeper in her chest. A longing stronger than that which she has previously felt. 
 		- 
+- Entrance
+	- Luxon icons with statues of Aurora Watch
+	- skeleton holding a crude map - feels like it's looking at you
+	- 2x coffins, one contains zombie
+	- Fight with shadowghast
+	- Rear coffin contains skeleton with a luck stone(ill luck stone) clasped between its fingers
+
+- selfisherman & gloomstalker
+	- gloomstalker harassing some "people" do the party help?
+	- happens at sunset - turns to darkness at second round of combat
+	- only some are fit to fight - multiple ate the fish. 
+	- needs to foreshadow their abilities 
+		- only 3 will be the vanguard, the rest have crossbows or javelins
+		- special fishing rod - immovable rod + rope of climbing
 	- no one buying their fish, trying to look after fred before he dies
 	- heard they'll hire anyone to guard bazzoxan
 	- one is too sick for them to leave, trying to make him comfortable
-	- 
 		- can show how poor off they are
 		- fred ate the crystal fish and look at him
-		- everyone looks skinny
-		- is there something we can do to this fish to eat it safely
-		- I'm really fkn hungry I think we need to do it
+			- everyone looks skinny
+			- is there something we can do to this fish to eat it safely
+			- I'm really hungry I think we need to do it
+			- can we eat the shadow beast?
+		- women and children
+			- children come out and kick a ball around once the fighting stops
+			- one child tries to be a "hero" and help 
 
 - scourger encounter - meets with selfisherman and uses them for a trap 
 	- anti magic restraint on natsumi
