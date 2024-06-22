@@ -1,5 +1,5 @@
 ---
-title: Session 7
+title: Session 8
 draft: false
 tags:
 ---
@@ -14,46 +14,22 @@ tags:
 - Who is Alyxian
 - Strained relationship with Rivals
 - Getting to Bazzoxan
+- Learning about the Luxon
+- 
 
 #### Party Knowledge
 - Take the jewel to betrayers rise
 
 #### NPCs
-nobody
+- Tharrik
+- selfisherman jerry bob fred etc
 
 #### Encounters
-- easier exploration encounter
-	- skill challenge
-	- water starts at 15ft per round
-	- round 2 increases to 20 ft 
-	- round 3 rises above low rocks
-- Mountain passage - forgotten shrine to Luxon
-	- vrock goes if they spend enough time exploring
-	- Mata remembers marching to war under that banner
-		- has a compulsion to kneel in front of Leylas' visage
-		- intense headache
-		- hears an old lady telling him 
-	- Statues of Quana, Leylas. Leylas head knocked off the podium. Other statues have been similarly damaged to time. Quana statue holds shield - 
-		- Natsumi remembers this person, feels a dull ache which grows deeper in her chest. A longing stronger than that which she has previously felt. 
-		- 
-- Entrance
-	- Luxon icons with statues of Aurora Watch
-	- skeleton holding a crude map - feels like it's looking at you
-	- 2x coffins, one contains zombie
-	- Fight with shadowghast
-	- Rear coffin contains skeleton with a luck stone(ill luck stone) clasped between its fingers
-
 mata dreams of the statue, alive, eyes red as it's mouth curls into a toothy grin "there there sweetie I will makes it all disappear"
 
 natsumi future dream: feels the warmth of a lovers hand, a dull ache which grows deeper in her chest. A longing stronger than that which she held for Trent. As her mind lingers on Trent she 
 
-- ~~selfisherman & gloomstalker~~
-	- ~~gloomstalker harassing some "people" do the party help?~~
-	- ~~happens at sunset - turns to darkness at second round of combat~~
-	- ~~only some are fit to fight - multiple ate the fish.~~ 
-	- ~~needs to foreshadow their abilities~~ 
-		- ~~only 3 will be the vanguard, the rest have crossbows or javelins~~
-		- ~~special fishing rod - immovable rod + rope of climbing~~
+- selfisherman
 	- no one buying their fish, trying to look after fred before he dies
 	- heard they'll hire anyone to guard bazzoxan
 	- one is too sick for them to leave, trying to make him comfortable

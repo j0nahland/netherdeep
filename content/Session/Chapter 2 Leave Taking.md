@@ -1,6 +1,6 @@
 Tension section is something I am actively putting some brain space to, as I have plot reveals that need to be, well, revealed at a point where the gang have enough clues to put some of it together i.e. karzepps mum is a deva who tried to save Alyxian already, and failed. 
 
-Not to mention Natsumi is being hunted by her scourger son, I don’t want this revealed immediately because it will retrospectively make a larger impact if she realises her baby was close to her this whole time. 
+Not to mention Natsumi is being hunted by her scourger daughter, I don’t want this revealed immediately because it will retrospectively make a larger impact if she realises her baby was close to her this whole time. 
 
 And I need some hints that Dendarron is Tillies brother even thought they won’t physically recognise each other after 80 years.
 

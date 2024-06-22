@@ -34,5 +34,6 @@ tags:
 - Natsumi and the 3 kids. one of the few times there seemed to be nothing to worry about. feels calm, nothing to fear. yearning for the face she will never see again
 - oh I had a cool idea for a Leylas moment down the track where I would describe Natsumi doing something exactly how Leylas would have done it but also she casts disguise self to look like her
 - thinking when they meet the guard in Bazzoxan. dude from [[Den Theyliss]], I need to make up a story between him and Leylas that this moment would be more significant
+- 
 
 

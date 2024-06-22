@@ -31,6 +31,13 @@ tags:
 - catastrophising the corruption - she is feeling betrayed by her physical form. 
 - Some kind of dysphoria potentially setting in
 - given dex gloves by Bugsy while in jail 
+- Natsume's story will bring out the fact that Karzepp doesn't know her mother
+	- also if Tillie ever opens up to talk about not being present at family gatherings.
+-  think her goblin alter ego is known as Zap a friend of Bugsy
+	- Bugsy was probably key in developing Zap's persona and would be familiar with Zap.
+	- Karzepp is much more likely to steal something when in her Zap persona.
+-  safe space was hiding, especially outside climbing a tree
+- Freeze, flee, fawn, Karzepp chooses anything before fight, if she can.
 
 
 Okay we have established a baseline! I think that while he doesn’t mention her or why she left, Karzepp understands that it was no small reason. He misses her but isn’t resentful of her for leaving, or bitter about their parting.
@@ -38,4 +45,5 @@ I think stories would be about how she blessed him with Karzepp after their fate
 And that they didn’t plan for Karzepp but were overjoyed when she came into their lives.
 As far as the greater family, they didn’t know Karzepps mum because she wasn’t around long enough- due to the long lives of gnomes the extended family thought they had plenty of time to meet her.
 To Karzepp, Jammi seemingly knows more than he tells her, but she knows at least that her mum leaving has nothing to do with other family drama
+
 
