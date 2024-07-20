@@ -33,34 +33,33 @@ natsumi future dream: feels the warmth of a lovers hand, a dull ache which grows
 	- no one buying their fish, trying to look after fred before he dies
 	- heard they'll hire anyone to guard bazzoxan
 	- one is too sick for them to leave, trying to make him comfortable
+		- we're fisherman... well, used to be. off the ifolon river we made our living but the last couple of months... you two have seen the fish. and missy over there doesn't look too good either. 
+		- hey how is it that you're in such good health little lady
+		- 
 		- can show how poor off they are
-		- fred ate the crystal fish and look at him
+		- **fred ate the crystal fish and look at him**
 			- everyone looks skinny
+				- one of the fighters has a broken arm
 			- is there something we can do to this fish to eat it safely
-			- I'm really hungry I think we need to do it
+			- **someone offers to dispose of the bodies**
+				- returns having found some game which they "killed and skinned"
 			- can we eat the shadow beast?
 		- women and children
-			- children come out and kick a ball around once the fighting stops
-			- one child tries to be a "hero" and help 
+			- tharrik hands a son his fathers weapon
+		- **do they leave the dying here, put them out of their misery or stay and make them comfortable?**
+			- this is why we should leave them, let the monsters get them instead of us
+			- goblin elder "we can't spread the infection, what if the monsters eat them?"
+			- what if monsters kill ALL of us!?
 
+			- 
+	- **someone kills the dying in the night**
+		- leavers faction blames on party?
+			- if party fails investigation, insight or charisma check they kick them out
+		- could be parent of one of the stay faction
+		- looting and disposal of body
+			- how do you dispose of the bodies
+			- fire = usable ruidium
 
-
-
-- scourger encounter - meets with selfisherman and uses them for a trap 
-	- anti magic restraint on natsumi
-	- Riley is modify memoried to remove natsumi from her memory
-	- crownsguard "you're a bad person. bad people kill people"
-		- selfisherman chime in - murderer, murderer
-		- why did you do this "well you didn't tell us you were on the run"
-	- terrain changing - dynamic situation
-		- dropping the earth beneath a player
-			- 2x2 square, tile next to the pit is difficult terrain
-		- earth is cracked?
-		- blighted land
-		- plate shift/lower higher ground
-	- crownsguard - rage, barbarian
-		- flail with special cc mechanic tbd and some manouvres
-		- pride!!! soldier uniform
 
 #### Notes
 - 

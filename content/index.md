@@ -29,7 +29,7 @@ title: Index
 		- [[Jamil A’alithiya]]
 		- [[Question]]
 	- **Empire**
-		- [[Crown's Guard]]
+		- [[Felix]]
 		- [[Scourger]]
 		- [[Trent Ikithon]]
 	- **Vermillion Dream**

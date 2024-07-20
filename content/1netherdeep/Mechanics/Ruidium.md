@@ -8,7 +8,6 @@ tags:
 - [[-Natsumi]] will remember Leylas using Ruidium as metamagic when [[-Karzepp]] uses
 - Corrupting elements make things easy like crazy women
 - set Ruidium DC's based on different metamagic - also effects amount to consume for metamagic. 
-- releases memories of past lives when consumed
 - Cooking with Ruidium???
 
 ###### Signs of Corruption
@@ -30,7 +29,8 @@ A creature beset by ruidium corruption also exhibits emotional signs of corrupti
 
 ###### Ruidium Metamagic
 
-**1 Sorcery point = 75g or 1/8th ounce of Ruidium** 
+**1 Sorcery point = 60g or 3 grams of Ruidium** 
+600 gold  = 30 grams ruidium = 20 gold per gram.
 
 **Careful Spell**
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend **1 sorcery point** and choose a number of those creatures up to your Spellcasting modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
