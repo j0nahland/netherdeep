@@ -64,14 +64,16 @@ tags:
 		- I cry????????????
 
 Running order
-- felix and tharrik arrive
+- felix and tharrik arrive - walking up in conversation
 - chat
 - perception on blue team - 14 goblin 19 riley
 - escalating discussion
 - first move by felix with a one liner
 - combat
-- 
-
+	- Drekkeg going for Mata
+	- Felix going for Natsumi
+	- Hooded figure going for crowd control
+	- Mooks going for bear
 
 #### Notes
 - 
