@@ -1,7 +1,6 @@
 ---
 title: Index
 ---
-
 - **Characters**
 	- **Party**
 		- **Karzepp (Sydney)**
