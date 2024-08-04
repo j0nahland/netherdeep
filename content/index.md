@@ -8,7 +8,7 @@ title: Index
 			- [[Jammi]]
 		- **Mata (Travis)**
 			- [[-Mata]]
-			- [[Hag]]
+			- [[Hagatha]]
 		- **Natsumi (Gemma)**
 			- [[-Natsumi]]
 			- [[Quana]]
@@ -16,7 +16,7 @@ title: Index
 		- **Tillie (Kristy)**
 			- [[-Tillie]]
 	- **Rivals**
-		- [[Dendarron the Sun Bear]]
+		- [[Sunny]]
 		- [[Irvan Wastewalker]]
 		- [[Maggie Keeneyes]]
 		- [[Rasz'Dryn]]
