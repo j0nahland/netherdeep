@@ -1,8 +1,7 @@
 ---
 title: Dues Nocturnal
 draft: false
-tags:
-  - player
+tags: []
 ---
 
 #### The Gang
@@ -13,7 +12,6 @@ tags:
 - Gurz
 	Warlock
 	Quiet, older brother to Keg. Sought pact with a demon to protect Keg. Kinda doin frodo things tbh. Really keen to go to Bazzoxan
-	
 
 - Sniffings
 	Rogue | Goblin
@@ -34,7 +32,6 @@ tags:
 	Bard
 	Thirsty to win. Wants to be the best. Tunnel vision. 
 	Acts without thinking of others
-	
 
 - Tillie
 	Barbarian
