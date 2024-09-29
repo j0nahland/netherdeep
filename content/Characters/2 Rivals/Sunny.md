@@ -27,8 +27,30 @@ tags:
 
 asked Karzepp if she has had any "episodes"
 
+core of the argument - Sunny sees Tillie as irresponsible, she needs to take ownership.
+	she's let all of her family down - me, her own daughter, her god damned husband!!!
+	WHY are **you** taking responsibility for **her** 
+	gets physical, Maggie intervenes to physically restrain him and calm him down. 
+
+sunny can be building a relationship with Karzepp while they are travelling
+	karzepp- you are like me. let's work together, I thought I was okay but its killing me. let's team up, she's just going to abandon you. what has she done for you anyway??
+
+side quest shit pisses him off, needs to get this done faster
+
+you're looking for me, I'm looking for your shit. what are you doing here?
+I want what you have, you wouldn't just give it to me so can we work together. 
+You don't even know what to look for. I do.
+I am dying, it's getting worse. without this I don't see a cure in sight. 
+since the corruption he gets this way sometimes, it's worse when he's tired
+we're going back in, come with us, please
+
+vermillion dream look for powerful mages ([[Trent Ikithon]]) when they learn there is SOME magic that suppresses ruidium
+this is out of sunny's desperation
+does sunny know it's required to progress to the heart of betrayers rise - he has killed other people trying to get in. this suppresses ruidium so this has to work. 
+not willing to kill for it
+
 #### Goals
-- cure himself of ruidium corruption
+- cure himself of ruidium corruption - STOP DYING
 - look after his family 
 	- he goes into betrayer's rise so others won't become corrupted
 - the family business 

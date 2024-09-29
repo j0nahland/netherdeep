@@ -26,13 +26,10 @@ tags:
 - [[Aloysia Telfan]] - Consortium Elf
 
 #### Encounters
-
-
 - Discussion with [[Verin Theyliss]] about [[Consecution]] - rudimentary guidance from him. Leylas moment. Sends her on a quest to find someone within betrayers rise?
 	- Leylas Moment
 		While being guided through anamnesis meditations casts disguise self into an elegant dress lined with scale mail. Adorning her head 
 
-- [Netherdeep | On a Red Rock Trail - Google Docs](https://docs.google.com/document/d/1Z_f4kTUBxE1StKBJh1A_SPnphoFLskLc2-3Lnysqs7M/edit#heading=h.9uo08sbrqawn)
 	- Yusaf's ruidium which he was sending back to Ank'Harel was stolen, likely by the Myriad according to Angela. 
 		- Shipment includes a prototype ruidium weapon he has been working on
 		- Ruidium infused magical longsword
@@ -46,17 +43,21 @@ tags:
 			- comments about safety of using the ruidium weapon
 				- one of the boys tried it out. slipped and cut himself
 				- wound seems infected, rash around the area
+			- logs of various parties who have been provided with "goods"
 		- Old letter containing consortium deal
 			- paying a monthly fee to use their various services and information network
 			- Signed "Dendarron" alongside a seal of the twin moons Catha and Ruidus
 		- A note from one myriad to the other:
-			- That Dendarron guy sure does talk funny 
+			- That Dendarron guy sure does talk funny, I don't like it
 		- **Loot:**
 			- 150 grams ruidium, ruidium infused longsword
 			- [Talking Doll - Magic Items - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/magic-items/27140-talking-doll)
+				- "Reach for the sky!"
+				- "There's a snake in my boot!"
+				- "You're my favourite deputy!"
+				- "Someone's poisoned the water hole!
 			- [Heward’s Handy Spice Pouch - Magic Items - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/magic-items/27063-hewards-handy-spice-pouch)
 			- a set of studded leather and a small crate with two ingots of adamantine (15kg  each, worth 500gp each)
-
 
 ##### Reunion with [[Prolix Yusaf]]
 - **Question on her way out as party arrives.** 
@@ -172,3 +173,15 @@ perpetually tortured for 80 years
 - portal to cael morrow
 - party chased by ruidium boss creature to surface
 - toto we're not in kansas anymore.png
+
+
+I feel you could have put more effort into your communication about playing over the last 2 weeks. 
+This dinner could have been mentioned Monday, any sort of time frame given yesterday when I said we would wait for you. 
+Not to mention you ignored me for a week when I was trying to get a different time sorted to play. 
+Regardless of the emergency the week prior this is the third week in a row you have not communicated about playing. 
+This is a commitment you made when agreeing to play- rock up on time or tell me about it. I will repeat this for emphasis, playing on Tuesday is a commitment we all made. When you make plans that clash with this commitment you are not the only person that is impacted. 
+My time and energy is not feeling respected right now especially considering you mentioned wanting to pull out of the game. 
+If it’s that you don’t want to play I would rather you tell me up front than fail to communicate. 
+I honestly didn’t run the game last night because of how frustrated I am that you feel this is in line with what was discussed in session 0. I am left wondering if I would have known at all had I not called you yesterday. 
+I will also remind you of several conversations I had with you about this kind of behaviour when playing our prior game. In this way I feel my expectations have been made clear. 
+So I will give you the choice to step away if you’re not engaged or to actively communicate disruptions. 

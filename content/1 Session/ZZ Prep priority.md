@@ -1,0 +1,16 @@
+- [ ] stat block
+	- [ ] sunny
+	- [ ] maggie
+	- [ ] irvan
+	- [ ] flesh golem morphs
+- [ ] encounter prep
+	- [ ] stasis trap
+	- [ ] sacrifice for weapon
+	- [ ] Tsubaki entrance
+	- [ ] stained glass window ruidium lock
+	- [ ] Room which creates a copy of yourself which attacks you
+	- [ ] game show
+		- [ ] board game version
+	- [ ] Tree trap!! Grassy nice place 
+- [ ] transition scene descriptions
+- [ ] 

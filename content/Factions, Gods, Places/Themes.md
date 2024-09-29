@@ -1,5 +1,5 @@
 
-Can you ever make the truly right decision
+**Can you ever make the truly right decision**
 
 Dysphoria
 - Identity
